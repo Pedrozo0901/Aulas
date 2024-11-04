@@ -1,0 +1,14 @@
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_5\bin\Debug\net8.0\aula_5.exe
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_5\bin\Debug\net8.0\aula_5.deps.json
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_5\bin\Debug\net8.0\aula_5.runtimeconfig.json
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_5\bin\Debug\net8.0\aula_5.dll
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_5\bin\Debug\net8.0\aula_5.pdb
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_5\obj\Debug\net8.0\aula_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_5\obj\Debug\net8.0\aula_5.AssemblyInfoInputs.cache
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_5\obj\Debug\net8.0\aula_5.AssemblyInfo.cs
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_5\obj\Debug\net8.0\aula_5.csproj.CoreCompileInputs.cache
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_5\obj\Debug\net8.0\aula_5.dll
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_5\obj\Debug\net8.0\refint\aula_5.dll
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_5\obj\Debug\net8.0\aula_5.pdb
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_5\obj\Debug\net8.0\aula_5.genruntimeconfig.cache
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_5\obj\Debug\net8.0\ref\aula_5.dll
