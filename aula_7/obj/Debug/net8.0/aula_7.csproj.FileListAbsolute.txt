@@ -1,0 +1,7 @@
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_7\obj\Debug\net8.0\aula_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_7\obj\Debug\net8.0\aula_7.AssemblyInfoInputs.cache
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_7\obj\Debug\net8.0\aula_7.AssemblyInfo.cs
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_7\obj\Debug\net8.0\aula_7.csproj.CoreCompileInputs.cache
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_7\obj\Debug\net8.0\aula_7.dll
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_7\obj\Debug\net8.0\aula_7.pdb
+C:\Users\feliperibeiro\Desktop\cursoC#\aula_7\obj\Debug\net8.0\aula_7.sourcelink.json
