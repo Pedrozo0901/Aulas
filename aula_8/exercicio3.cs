@@ -28,12 +28,12 @@ namespace aula_8
                 } 
             }
 
-            // if(contador2 == 4)
-            // {
-            //     System.Console.WriteLine("É um palindromo!");
-            // } else{
-            //     System.Console.WriteLine("Não é um palindromo!");
-            // }
+            if(contador2 == 4)
+            {
+                System.Console.WriteLine("É um palindromo!");
+            } else{
+                System.Console.WriteLine("Não é um palindromo!");
+            }
         }
     }
 }
