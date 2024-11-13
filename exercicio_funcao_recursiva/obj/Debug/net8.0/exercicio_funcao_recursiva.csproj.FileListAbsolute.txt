@@ -1,0 +1,15 @@
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\exercicio_funcao_recursiva\obj\Debug\net8.0\exercicio_funcao_recursiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\exercicio_funcao_recursiva\obj\Debug\net8.0\exercicio_funcao_recursiva.AssemblyInfoInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\exercicio_funcao_recursiva\obj\Debug\net8.0\exercicio_funcao_recursiva.AssemblyInfo.cs
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\exercicio_funcao_recursiva\obj\Debug\net8.0\exercicio_funcao_recursiva.csproj.CoreCompileInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\exercicio_funcao_recursiva\obj\Debug\net8.0\exercicio_funcao_recursiva.sourcelink.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\exercicio_funcao_recursiva\bin\Debug\net8.0\exercicio_funcao_recursiva.exe
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\exercicio_funcao_recursiva\bin\Debug\net8.0\exercicio_funcao_recursiva.deps.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\exercicio_funcao_recursiva\bin\Debug\net8.0\exercicio_funcao_recursiva.runtimeconfig.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\exercicio_funcao_recursiva\bin\Debug\net8.0\exercicio_funcao_recursiva.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\exercicio_funcao_recursiva\bin\Debug\net8.0\exercicio_funcao_recursiva.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\exercicio_funcao_recursiva\obj\Debug\net8.0\exercicio_funcao_recursiva.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\exercicio_funcao_recursiva\obj\Debug\net8.0\refint\exercicio_funcao_recursiva.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\exercicio_funcao_recursiva\obj\Debug\net8.0\exercicio_funcao_recursiva.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\exercicio_funcao_recursiva\obj\Debug\net8.0\exercicio_funcao_recursiva.genruntimeconfig.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\exercicio_funcao_recursiva\obj\Debug\net8.0\ref\exercicio_funcao_recursiva.dll
