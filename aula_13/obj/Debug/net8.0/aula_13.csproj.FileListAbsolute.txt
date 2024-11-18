@@ -1,0 +1,15 @@
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_13\bin\Debug\net8.0\aula_13.exe
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_13\bin\Debug\net8.0\aula_13.deps.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_13\bin\Debug\net8.0\aula_13.runtimeconfig.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_13\bin\Debug\net8.0\aula_13.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_13\bin\Debug\net8.0\aula_13.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_13\obj\Debug\net8.0\aula_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_13\obj\Debug\net8.0\aula_13.AssemblyInfoInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_13\obj\Debug\net8.0\aula_13.AssemblyInfo.cs
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_13\obj\Debug\net8.0\aula_13.csproj.CoreCompileInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_13\obj\Debug\net8.0\aula_13.sourcelink.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_13\obj\Debug\net8.0\aula_13.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_13\obj\Debug\net8.0\refint\aula_13.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_13\obj\Debug\net8.0\aula_13.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_13\obj\Debug\net8.0\aula_13.genruntimeconfig.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_13\obj\Debug\net8.0\ref\aula_13.dll
