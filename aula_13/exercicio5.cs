@@ -1,123 +1,177 @@
 using System;
-using System.Diagnostics;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Threading.Tasks;
 
-
-namespace Aula_13
+namespace Aula_12
 {
-    class exercicio5
+    public class Exe5
     {
-        static int[] GerarArrayAleatorio(int tamanho)
-        {
-            Random random = new Random();
-            int[] array = new int[tamanho];
-            for (int i = 0; i < tamanho; i++)
-            {
-                array[i] = random.Next(1, 10001); // Números entre 1 e 10000
-            }
-            return array;
-        }
 
-        // Bubble Sort
-        static void BubbleSort(int[] vetor)
+        static void BuubleSort(int[] arr)
         {
-            int temp;
-            for (int i = 0; i < vetor.Length - 1; i++)
+            for (int i = 0; i < arr.Length; i++)
             {
-                for (int j = 0; j < vetor.Length - i - 1; j++)
+                for (int j = 0; j < arr.Length - 1; j++)
                 {
-                    if (vetor[j] > vetor[j + 1])
+                    if (arr[j] > arr[j + 1])
                     {
-                        temp = vetor[j];
-                        vetor[j] = vetor[j + 1];
-                        vetor[j + 1] = temp;
+                        int temp = arr[j];
+                        arr[j] = arr[j + 1];
+                        arr[j + 1] = temp;
                     }
                 }
             }
         }
-
-        // Selection Sort
-        static void SelectionSort(int[] vetor)
+        static void SelectionSort(int[] arr)
         {
-            int menor, aux;
-            for (int i = 0; i < vetor.Length - 1; i++)
+            for (int i = 0; i < arr.Length; i++)
             {
-                menor = i;
-                for (int j = i + 1; j < vetor.Length; j++)
+                int min = i;
+                for (int j = i + 1; j < arr.Length; j++)
                 {
-                    if (vetor[j] < vetor[menor])
+                    if (arr[j] < arr[min])
                     {
-                        menor = j;
+                        min = j;
                     }
                 }
-                aux = vetor[i];
-                vetor[i] = vetor[menor];
-                vetor[menor] = aux;
+                int temp = arr[i];
+                arr[i] = arr[min];
+                arr[min] = temp;
             }
         }
 
-        // Insertion Sort
-        static void InsertionSort(int[] vetor)
+        static void InsertionSort(int[] arr)
         {
-            int aux, j;
-            for (int i = 1; i < vetor.Length; i++)
+            for (int i = 1; i < arr.Length; i++)
             {
-                aux = vetor[i];
-                j = i - 1;
-                while (j >= 0 && vetor[j] > aux)
+                int chave = arr[i];
+                int j = i - 1;
+                while (j >= 0 && arr[j] > chave)
                 {
-                    vetor[j + 1] = vetor[j];
-                    j--;
+                    arr[j + 1] = arr[j];
+                    j = j - 1;
                 }
-                vetor[j + 1] = aux;
+                arr[j + 1] = chave;
             }
         }
 
-        static void Main(string[] args)
+        // marge
+        static void Marge(int[] vetor, int inicio, int fim)
         {
-            int tamanho = 1000;
-            int[] array = GerarArrayAleatorio(tamanho);
+        if (inicio < fim)
+        {
+            int meio = (inicio + fim) / 2;
+            Marge(vetor, inicio, meio);
+            Marge(vetor, meio + 1, fim);
+            Intercalar(vetor, inicio, meio, fim);
+        }
+        }
 
-            // Criar cópias do array para testar cada algoritmo
-            int[] bubbleArray = (int[])array.Clone();
-            int[] selectionArray = (int[])array.Clone();
-            int[] insertionArray = (int[])array.Clone();
+        // marge
+        static void Intercalar(int[] vetor, int inicio, int meio, int fim)
+        {
+            int[] aux = new int[vetor.Length];
+            for (int j = inicio; j <= fim; j++)
+            {
+                aux[j] = vetor[j];
+            }
 
-            // Medir o tempo de execução do Bubble Sort
-            var stopwatch = Stopwatch.StartNew();
-            BubbleSort(bubbleArray);
-            stopwatch.Stop();
-            long bubbleSortTime = stopwatch.ElapsedMilliseconds;
+            int i1 = inicio;
+            int i2 = meio + 1;
+            int i3 = inicio;
 
-            // Medir o tempo de execução do Selection Sort
-            stopwatch.Restart();
+            while (i1 <= meio && i2 <= fim)
+            {
+                if (aux[i1] < aux[i2])
+                {
+                    vetor[i3] = aux[i1];
+                    i1++;
+                }
+                else
+                {
+                    vetor[i3] = aux[i2];
+                    i2++;
+                }
+                i3++;
+            }
+
+            while (i1 <= meio)
+            {
+                vetor[i3] = aux[i1];
+                i1++;
+                i3++;
+            }
+
+            while (i2 <= fim)
+            {
+                vetor[i3] = aux[i2];
+                i2++;
+                i3++;
+            }
+        }
+        static void Main()
+        {
+            int [] numeros = new int[1000];
+            for (int i = 0; i < numeros.Length; i++)
+            {
+                numeros[i] = (i % 100) + 1;
+            }
+
+            // Criar copias para cada algoritmo
+            int[] bubleArray = (int[])numeros.Clone();
+            int[] selectionArray = (int[])numeros.Clone();
+            int[] insertionArray = (int[])numeros.Clone();
+            int[] margeArray = (int[])numeros.Clone();
+
+            // Mede o tempo de execução do BubbleSort
+            var inicio = DateTime.Now.Ticks; // Pega o tempo atual em ticks
+            BuubleSort(bubleArray);
+            var tempoBubble = DateTime.Now.Ticks - inicio; // Pega o tempo atual em ticks
+
+            // Mede o tempo de execução do SelectionSort
+            inicio = DateTime.Now.Ticks; // Pega o tempo atual em ticks
             SelectionSort(selectionArray);
-            stopwatch.Stop();
-            long selectionSortTime = stopwatch.ElapsedMilliseconds;
+            var tempoSelection = DateTime.Now.Ticks - inicio; // Pega o tempo atual em ticks
 
-            // Medir o tempo de execução do Insertion Sort
-            stopwatch.Restart();
+            // Mede o tempo de execução do InsertionSort
+            inicio = DateTime.Now.Ticks; // Pega o tempo atual em ticks
             InsertionSort(insertionArray);
-            stopwatch.Stop();
-            long insertionSortTime = stopwatch.ElapsedMilliseconds;
+            var tempoInsertion = DateTime.Now.Ticks - inicio; // Pega o tempo atual em ticks
 
-            // Exibir os resultados
-            Console.WriteLine($"Bubble Sort: {bubbleSortTime}ms");
-            Console.WriteLine($"Selection Sort: {selectionSortTime}ms");
-            Console.WriteLine($"Insertion Sort: {insertionSortTime}ms");
+            // Mede o tempo de execução do MargeSort
+            inicio = DateTime.Now.Ticks; // Pega o tempo atual em ticks
+            Marge(margeArray);
+            var tempoMarge = DateTime.Now.Ticks - inicio; // Pega o tempo atual em ticks
 
-            // Determinar o melhor desempenho
-            if (bubbleSortTime <= selectionSortTime && bubbleSortTime <= insertionSortTime)
+
+
+            string melhorAlgoritmo;
+            int[] melhorArray;
+
+            if (tempoBubble < tempoSelection && tempoBubble < tempoInsertion)
             {
-                Console.WriteLine("Melhor desempenho: Bubble Sort");
+                melhorAlgoritmo = "BubbleSort";
+                melhorArray = bubleArray;
             }
-            else if (selectionSortTime <= bubbleSortTime && selectionSortTime <= insertionSortTime)
+            else if (tempoSelection < tempoBubble && tempoSelection < tempoInsertion)
             {
-                Console.WriteLine("Melhor desempenho: Selection Sort");
+                melhorAlgoritmo = "SelectionSort";
+                melhorArray = selectionArray;
             }
             else
             {
-                Console.WriteLine("Melhor desempenho: Insertion Sort");
+                melhorAlgoritmo = "InsertionSort";
+                melhorArray = insertionArray;
             }
+
+            // Exibe os tempos de execução
+            Console.WriteLine($"Tempo de execução do BubbleSort: {tempoBubble}");
+            Console.WriteLine($"Tempo de execução do SelectionSort: {tempoSelection}");
+            Console.WriteLine($"Tempo de execução do InsertionSort: {tempoInsertion}");
+            Console.WriteLine($"Tempo de execução do InsertionSort: {tempoMarge}");
+            Console.WriteLine($"O melhor algoritmo foi o {melhorAlgoritmo}");
         }
     }
 }
