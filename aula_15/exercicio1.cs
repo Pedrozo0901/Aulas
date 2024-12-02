@@ -1,6 +1,6 @@
-// using System;
+﻿// using System;
 
-// namespace Exemplo12ListPilhFilaENCADEADA
+// namespace Aula_15
 // {
 //     class Lista
 //     {
@@ -76,6 +76,27 @@
 //             }
 //         }
 
+//         // Inserir em posição específica
+//         public void InserirPosicao(int valor, int posicao)
+//         {
+//             Node novoNode = new Node { Valor = valor, Proximo = null };
+//             if (inicio == null)
+//             {
+//                 inicio = novoNode;
+//             }
+//             else
+//             {
+//                 Node atual = inicio;
+//                 int i = 0;
+//                 while (atual.Proximo != null && i < posicao - 1)
+//                 {
+//                     atual = atual.Proximo;
+//                     i++;
+//                 }
+//                 novoNode.Proximo = atual.Proximo;
+//                 atual.Proximo = novoNode;
+//             }
+//         }
 //         // Função principal para execução do programa
 //         static void teste()
 //         {
@@ -85,13 +106,8 @@
 //             lista.Inserir(10);
 //             lista.Inserir(20);
 //             lista.Inserir(30);
-
-//             // Lista os valores da lista
 //             lista.Listar();
-
-//             // Exclui o valor 20 e lista novamente para verificar a remoção
-//             Console.WriteLine("Excluir 20");
-//             lista.Excluir(20);
+//             lista.InserirPosicao(38, 1);
 //             lista.Listar();
 //         }
 //     }

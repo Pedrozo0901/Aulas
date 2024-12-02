@@ -83,19 +83,20 @@
 //             }
 //         }
 
+//         static void Tamanho()
+//         {
+//             Console.WriteLine($"A fila tem {contador} itens");
+//         }
+
+
+
 //         static void Main()
 //         {
 //             Enfileirar(10);
 //             Enfileirar(20);
 //             Enfileirar(30);
 //             Listar();
-//             Desenfileirar();
-//             Listar();
-//             Desenfileirar();
-//             Listar();
-//             Desenfileirar();
-//             Listar();
-//             Desenfileirar();
+//             Tamanho();
 //         }
 //     }
 // }
