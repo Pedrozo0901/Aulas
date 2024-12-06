@@ -1,0 +1,15 @@
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_heranca\obj\Debug\net8.0\aula_17_heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_heranca\obj\Debug\net8.0\aula_17_heranca.AssemblyInfoInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_heranca\obj\Debug\net8.0\aula_17_heranca.AssemblyInfo.cs
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_heranca\obj\Debug\net8.0\aula_17_heranca.csproj.CoreCompileInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_heranca\obj\Debug\net8.0\aula_17_heranca.sourcelink.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_heranca\bin\Debug\net8.0\aula_17_heranca.exe
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_heranca\bin\Debug\net8.0\aula_17_heranca.deps.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_heranca\bin\Debug\net8.0\aula_17_heranca.runtimeconfig.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_heranca\bin\Debug\net8.0\aula_17_heranca.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_heranca\bin\Debug\net8.0\aula_17_heranca.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_heranca\obj\Debug\net8.0\aula_17_heranca.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_heranca\obj\Debug\net8.0\refint\aula_17_heranca.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_heranca\obj\Debug\net8.0\aula_17_heranca.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_heranca\obj\Debug\net8.0\aula_17_heranca.genruntimeconfig.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_heranca\obj\Debug\net8.0\ref\aula_17_heranca.dll

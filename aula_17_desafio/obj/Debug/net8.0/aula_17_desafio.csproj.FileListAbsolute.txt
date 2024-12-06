@@ -1,0 +1,15 @@
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_desafio\obj\Debug\net8.0\aula_17_desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_desafio\obj\Debug\net8.0\aula_17_desafio.AssemblyInfoInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_desafio\obj\Debug\net8.0\aula_17_desafio.AssemblyInfo.cs
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_desafio\obj\Debug\net8.0\aula_17_desafio.csproj.CoreCompileInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_desafio\obj\Debug\net8.0\aula_17_desafio.sourcelink.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_desafio\bin\Debug\net8.0\aula_17_desafio.exe
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_desafio\bin\Debug\net8.0\aula_17_desafio.deps.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_desafio\bin\Debug\net8.0\aula_17_desafio.runtimeconfig.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_desafio\bin\Debug\net8.0\aula_17_desafio.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_desafio\bin\Debug\net8.0\aula_17_desafio.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_desafio\obj\Debug\net8.0\aula_17_desafio.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_desafio\obj\Debug\net8.0\refint\aula_17_desafio.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_desafio\obj\Debug\net8.0\aula_17_desafio.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_desafio\obj\Debug\net8.0\aula_17_desafio.genruntimeconfig.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_17_desafio\obj\Debug\net8.0\ref\aula_17_desafio.dll
