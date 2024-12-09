@@ -1,0 +1,15 @@
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_18_visibilidade\obj\Debug\net8.0\aula_18_visibilidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_18_visibilidade\obj\Debug\net8.0\aula_18_visibilidade.AssemblyInfoInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_18_visibilidade\obj\Debug\net8.0\aula_18_visibilidade.AssemblyInfo.cs
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_18_visibilidade\obj\Debug\net8.0\aula_18_visibilidade.csproj.CoreCompileInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_18_visibilidade\obj\Debug\net8.0\aula_18_visibilidade.sourcelink.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_18_visibilidade\bin\Debug\net8.0\aula_18_visibilidade.exe
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_18_visibilidade\bin\Debug\net8.0\aula_18_visibilidade.deps.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_18_visibilidade\bin\Debug\net8.0\aula_18_visibilidade.runtimeconfig.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_18_visibilidade\bin\Debug\net8.0\aula_18_visibilidade.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_18_visibilidade\bin\Debug\net8.0\aula_18_visibilidade.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_18_visibilidade\obj\Debug\net8.0\aula_18_visibilidade.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_18_visibilidade\obj\Debug\net8.0\refint\aula_18_visibilidade.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_18_visibilidade\obj\Debug\net8.0\aula_18_visibilidade.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_18_visibilidade\obj\Debug\net8.0\aula_18_visibilidade.genruntimeconfig.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_18_visibilidade\obj\Debug\net8.0\ref\aula_18_visibilidade.dll

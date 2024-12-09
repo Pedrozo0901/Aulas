@@ -1,0 +1,15 @@
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\Aula_18_classe_abstrata\obj\Debug\net8.0\Aula_18_classe_abstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\Aula_18_classe_abstrata\obj\Debug\net8.0\Aula_18_classe_abstrata.AssemblyInfoInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\Aula_18_classe_abstrata\obj\Debug\net8.0\Aula_18_classe_abstrata.AssemblyInfo.cs
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\Aula_18_classe_abstrata\obj\Debug\net8.0\Aula_18_classe_abstrata.csproj.CoreCompileInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\Aula_18_classe_abstrata\obj\Debug\net8.0\Aula_18_classe_abstrata.sourcelink.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\Aula_18_classe_abstrata\bin\Debug\net8.0\Aula_18_classe_abstrata.exe
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\Aula_18_classe_abstrata\bin\Debug\net8.0\Aula_18_classe_abstrata.deps.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\Aula_18_classe_abstrata\bin\Debug\net8.0\Aula_18_classe_abstrata.runtimeconfig.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\Aula_18_classe_abstrata\bin\Debug\net8.0\Aula_18_classe_abstrata.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\Aula_18_classe_abstrata\bin\Debug\net8.0\Aula_18_classe_abstrata.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\Aula_18_classe_abstrata\obj\Debug\net8.0\Aula_18_classe_abstrata.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\Aula_18_classe_abstrata\obj\Debug\net8.0\refint\Aula_18_classe_abstrata.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\Aula_18_classe_abstrata\obj\Debug\net8.0\Aula_18_classe_abstrata.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\Aula_18_classe_abstrata\obj\Debug\net8.0\Aula_18_classe_abstrata.genruntimeconfig.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\Aula_18_classe_abstrata\obj\Debug\net8.0\ref\Aula_18_classe_abstrata.dll
