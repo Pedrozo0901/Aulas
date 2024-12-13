@@ -17,6 +17,19 @@ namespace aula_19_encapsulamento
             System.Console.WriteLine("Nome: " + p.Nome + " Preço: " + p.Preco + " Quantidade: " + p.GetQuantidade());
 
             System.Console.WriteLine(p.ToString());
+
+            // Algumas funções para validar seus tipos e Propriedades
+            // A classe type representa o meadados de uma classe em tempo de execução
+            Type t = typeof(Produto);
+            System.Console.WriteLine(t.Name);
+
+            // Vou mostrar tdas as suas propredades
+            System.Console.WriteLine("Propriedades: ");
+            foreach(PropertyInfo prop in t.GetProperties())
+            {
+                // O PropertyInfo é uma classe que represena uma propriedade de um tipo
+                System.Console.WriteLine(prop.Name);
+            }
         }
     }
 }
