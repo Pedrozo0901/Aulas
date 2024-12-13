@@ -1,0 +1,15 @@
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_19_encapsulamento\obj\Debug\net8.0\aula_19_encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_19_encapsulamento\obj\Debug\net8.0\aula_19_encapsulamento.AssemblyInfoInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_19_encapsulamento\obj\Debug\net8.0\aula_19_encapsulamento.AssemblyInfo.cs
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_19_encapsulamento\obj\Debug\net8.0\aula_19_encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_19_encapsulamento\obj\Debug\net8.0\aula_19_encapsulamento.sourcelink.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_19_encapsulamento\bin\Debug\net8.0\aula_19_encapsulamento.exe
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_19_encapsulamento\bin\Debug\net8.0\aula_19_encapsulamento.deps.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_19_encapsulamento\bin\Debug\net8.0\aula_19_encapsulamento.runtimeconfig.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_19_encapsulamento\bin\Debug\net8.0\aula_19_encapsulamento.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_19_encapsulamento\bin\Debug\net8.0\aula_19_encapsulamento.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_19_encapsulamento\obj\Debug\net8.0\aula_19_encapsulamento.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_19_encapsulamento\obj\Debug\net8.0\refint\aula_19_encapsulamento.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_19_encapsulamento\obj\Debug\net8.0\aula_19_encapsulamento.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_19_encapsulamento\obj\Debug\net8.0\aula_19_encapsulamento.genruntimeconfig.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_19_encapsulamento\obj\Debug\net8.0\ref\aula_19_encapsulamento.dll
