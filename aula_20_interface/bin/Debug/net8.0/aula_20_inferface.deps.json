@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "aula_20_inferface/1.0.0": {
+        "runtime": {
+          "aula_20_inferface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aula_20_inferface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

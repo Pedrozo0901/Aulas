@@ -1,43 +1,47 @@
-namespace aula_19_exercicio
-{
-    public class Conta
-    {
-        private int _numeroDaConta;
-        public string Nome { get; set;}
-        protected double Saldo;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-        public Conta(int numeroConta, string nome)
+namespace Aula_18_OO_Exe
+{
+    public class ContaBancaria
+    {
+        // Fazer as prorpiedades da classe
+        public int Numero { get; private set; }
+        public string Titular { get; set; }
+        public double Saldo { get; private set; }
+
+        // Contrutor
+        public ContaBancaria(int numero, string titular)
         {
-            _numeroDaConta = numeroConta;
-            Nome = nome; 
+            Numero = numero;
+            Titular = titular;
         }
 
-        public Conta(int numeroConta, string nome, double saldo) : this(numeroConta, nome)
+        // Contrutor co 3 parametros
+        public ContaBancaria(int numero, string titular, double saldo) : this(numero, titular)
         {
-            _numeroDaConta = numeroConta;
-            Nome = nome; 
             Saldo = saldo;
         }
 
-        public int NumeroDaConta
+        // Função Deposito
+        public void Deposito(double quantia)
         {
-            get{
-                return _numeroDaConta;
-            }
-        }
-        public void Deposito(double deposito)
-        {
-            Saldo += deposito;
+            Saldo += quantia;
         }
 
-        public void Saque(double saque)
+        // Função Saque
+        public void Saque(double quantia)
         {
-            Saldo -= (saque + 5);
+            Saldo -= quantia + 5.0;
         }
 
-        public double GetSaldo()
+        // Função para mostrar os dados da conta
+        public override string ToString()
         {
-            return Saldo;
+            return "Conta " + Numero + ", Titular: " + Titular 
+            + ", Saldo: $ " + Saldo.ToString("F2");
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_exercicio\obj\Debug\net8.0\aula_20_exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_exercicio\obj\Debug\net8.0\aula_20_exercicio.AssemblyInfoInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_exercicio\obj\Debug\net8.0\aula_20_exercicio.AssemblyInfo.cs
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_exercicio\obj\Debug\net8.0\aula_20_exercicio.csproj.CoreCompileInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_exercicio\obj\Debug\net8.0\aula_20_exercicio.sourcelink.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_exercicio\bin\Debug\net8.0\aula_20_exercicio.exe
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_exercicio\bin\Debug\net8.0\aula_20_exercicio.deps.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_exercicio\bin\Debug\net8.0\aula_20_exercicio.runtimeconfig.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_exercicio\bin\Debug\net8.0\aula_20_exercicio.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_exercicio\bin\Debug\net8.0\aula_20_exercicio.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_exercicio\obj\Debug\net8.0\aula_20_exercicio.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_exercicio\obj\Debug\net8.0\refint\aula_20_exercicio.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_exercicio\obj\Debug\net8.0\aula_20_exercicio.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_exercicio\obj\Debug\net8.0\aula_20_exercicio.genruntimeconfig.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_exercicio\obj\Debug\net8.0\ref\aula_20_exercicio.dll

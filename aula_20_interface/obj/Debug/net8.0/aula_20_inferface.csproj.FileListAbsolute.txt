@@ -1,0 +1,15 @@
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_interface\obj\Debug\net8.0\aula_20_inferface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_interface\obj\Debug\net8.0\aula_20_inferface.AssemblyInfoInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_interface\obj\Debug\net8.0\aula_20_inferface.AssemblyInfo.cs
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_interface\obj\Debug\net8.0\aula_20_inferface.csproj.CoreCompileInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_interface\obj\Debug\net8.0\aula_20_inferface.sourcelink.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_interface\bin\Debug\net8.0\aula_20_inferface.exe
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_interface\bin\Debug\net8.0\aula_20_inferface.deps.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_interface\bin\Debug\net8.0\aula_20_inferface.runtimeconfig.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_interface\bin\Debug\net8.0\aula_20_inferface.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_interface\bin\Debug\net8.0\aula_20_inferface.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_interface\obj\Debug\net8.0\aula_20_inferface.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_interface\obj\Debug\net8.0\refint\aula_20_inferface.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_interface\obj\Debug\net8.0\aula_20_inferface.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_interface\obj\Debug\net8.0\aula_20_inferface.genruntimeconfig.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_20_interface\obj\Debug\net8.0\ref\aula_20_inferface.dll
