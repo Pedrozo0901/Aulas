@@ -1,0 +1,5 @@
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes2\obj\Debug\net8.0\aula_21_relacoes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes2\obj\Debug\net8.0\aula_21_relacoes2.AssemblyInfoInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes2\obj\Debug\net8.0\aula_21_relacoes2.AssemblyInfo.cs
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes2\obj\Debug\net8.0\aula_21_relacoes2.csproj.CoreCompileInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes2\obj\Debug\net8.0\aula_21_relacoes2.sourcelink.json

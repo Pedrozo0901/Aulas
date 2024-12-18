@@ -1,0 +1,15 @@
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes\obj\Debug\net8.0\aula_21_relacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes\obj\Debug\net8.0\aula_21_relacoes.AssemblyInfoInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes\obj\Debug\net8.0\aula_21_relacoes.AssemblyInfo.cs
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes\obj\Debug\net8.0\aula_21_relacoes.csproj.CoreCompileInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes\obj\Debug\net8.0\aula_21_relacoes.sourcelink.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes\bin\Debug\net8.0\aula_21_relacoes.exe
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes\bin\Debug\net8.0\aula_21_relacoes.deps.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes\bin\Debug\net8.0\aula_21_relacoes.runtimeconfig.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes\bin\Debug\net8.0\aula_21_relacoes.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes\bin\Debug\net8.0\aula_21_relacoes.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes\obj\Debug\net8.0\aula_21_relacoes.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes\obj\Debug\net8.0\refint\aula_21_relacoes.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes\obj\Debug\net8.0\aula_21_relacoes.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes\obj\Debug\net8.0\aula_21_relacoes.genruntimeconfig.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_21_relacoes\obj\Debug\net8.0\ref\aula_21_relacoes.dll
