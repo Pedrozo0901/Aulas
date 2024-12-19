@@ -24,7 +24,7 @@ namespace Aula_21_relacoes2
             portaQuarto quarto = new portaQuarto(true, 20);
             System.Console.WriteLine($"Quarto: {quarto.PortaQuarto.Cor}");
 
-            System.Console.WriteLine("Associaçã simples");
+            System.Console.WriteLine("Associação simples");
             stackalloc sala = new Sala();
 
         }
