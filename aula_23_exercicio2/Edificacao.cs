@@ -1,18 +1,14 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace aula_23_exercicio2
 {
     public abstract class Edificacao
     {
-        public float MetragemTotal {get;set;}
-        public string Endereco {get;set;}
-        public Engenheiro Responsavel {get;set;}
-        public UnidadeResidencial Unidades {get;set;}
-    
-        public Edificacao(float metragem, string endereco, Engenheiro responsavel, UnidadeResidencial unidades)
+        public float MetragemTotal { get; set; }
+        public string Endereco { get; set; }
+        public Engenheiro Responsavel { get; set; }
+        public UnidadeResidencial[] Unidades { get; set; }
+        public Edificacao(float metragem, string endereco, Engenheiro responsavel, UnidadeResidencial[] unidades)
         {
             MetragemTotal = metragem;
             Endereco = endereco;
@@ -50,9 +46,14 @@ namespace aula_23_exercicio2
             Responsavel = eng;
         }
 
-        public UnidadeResidencial getUnidades()
+        public UnidadeResidencial[] getUnidades()
         {
             return Unidades;
+        }
+
+        public void setUnidades(UnidadeResidencial[] unidades)
+        {
+            Unidades = unidades;
         }
     }
 }
