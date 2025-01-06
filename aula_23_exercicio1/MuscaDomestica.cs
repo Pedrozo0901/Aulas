@@ -3,16 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace aula_23_exercicio
+namespace Aula_21_OO.Exercicio_1
 {
-    public class MuscaDomestica : Musca
+    public class MuscaDomestica : Animalia
     {
-        public string Nome {get;set;}
-
-        public MuscaDomestica(string nome)
+        // Contrutor
+        public MuscaDomestica()
+       : base("Arthropoda", "Insecta", "Muscidae", "Carnidae", "Musca", "Canis", "Cani Familiares")
         {
-            Nome = nome;
+
         }
-        public override string obterDescricao() => $"MuscaDomestica -> {Nome}";
+
+        public override string ObterDescricao()
+        {
+            return $"Reino: {Reino}\nFilo: {Filo}\nClasse: {Classe}\nOrdem: {Ordem}\nFamilia: {Familia}\nGenero: {Genero}\nEspecie: {Especie}";
+        }
     }
 }

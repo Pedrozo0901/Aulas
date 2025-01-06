@@ -3,17 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace aula_23_exercicio
+namespace Aula_21_OO.Exercicio_1
 {
-    public class HomoSapiens : Homo
+    public class HomoSapiens : Animalia
     {
-        public string Nome {get; set;}
-
-        public HomoSapiens(string nome)
+        // Contrutor
+        public HomoSapiens()
+        : base("Animalia", "Chordata", "Mammalia", "Primates", "Homo", "Homo Sapiens", "")
         {
-            Nome = nome;
-        }
 
-        public override string obterDescricao() => $"HomoSapiens -> {Nome}";
+        }
+        public override string ObterDescricao()
+        {
+            return base.ObterDescricao();   
+        }
     }
 }

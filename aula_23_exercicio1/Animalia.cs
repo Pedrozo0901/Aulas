@@ -3,27 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace aula_23_exercicio
+namespace Aula_21_OO.Exercicio_1
 {
-    public abstract class Animalia
+    public class Animalia : Taxonomia
     {
-        public abstract string obterDescricao();
-
-        public string obterTaxonomia()
+        // Contrutor
+        public Animalia(string reino, string filo, string classe, string ordem, string familia, string genero, string especie)
+            : base("Animalia", filo, classe, ordem, familia, genero, especie)
         {
-            Type tipoAtual = this.GetType();
-            Type? tipoBase = tipoAtual.BaseType;
+        }
 
-            string descricao = obterDescricao();
-
-            while (tipoBase != null && tipoBase != typeof(object))
-            {
-                // Inclui a descrição de cada classe na hierarquia
-                descricao = $"{tipoBase.Name} -> {descricao}";
-                tipoBase = tipoBase.BaseType;
-            }
-
-            return descricao;
+        public override string ObterDescricao()
+        {
+            return $"Reino: {Reino}\nFilo: {Filo}\nClasse: {Classe}\nOrdem: {Ordem}\nFamilia: {Familia}\nGenero: {Genero}\nEspecie: {Especie}";
         }
     }
 }

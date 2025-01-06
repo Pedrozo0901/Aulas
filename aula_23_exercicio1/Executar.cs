@@ -3,24 +3,28 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace aula_23_exercicio
+
+namespace Aula_21_OO.Exercicio_1
 {
     public class Executar
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            HomoSapiens humano = new HomoSapiens("Henrrique");
-            System.Console.WriteLine(humano.obterTaxonomia());
+            // iniciei com Taxonomia porque gostaria padronizar a saida de todas as variaveis comparando as saidas
+            Taxonomia homoSapiens = new HomoSapiens(); 
+            Taxonomia muscaDomestica = new MuscaDomestica();
+            Taxonomia canisFamiliaris = new CanisFamiliaris();
+            
+            
+            System.Console.WriteLine("HomoSapiens");
+            System.Console.WriteLine(homoSapiens.ObterDescricao());
 
-            System.Console.WriteLine();
+            System.Console.WriteLine("MuscaDomestica");
+            System.Console.WriteLine(muscaDomestica.ObterDescricao());
 
-            CanisFamiliaris cachorro = new CanisFamiliaris("Trovão");
-            System.Console.WriteLine(cachorro.obterTaxonomia());
-
-            System.Console.WriteLine();
-
-            MuscaDomestica mosca = new MuscaDomestica("Mosca Branca");
-            System.Console.WriteLine(mosca.obterTaxonomia());
+            System.Console.WriteLine("CanisFamiliaris");
+            System.Console.WriteLine(canisFamiliaris.ObterDescricao());
         }
+        
     }
 }

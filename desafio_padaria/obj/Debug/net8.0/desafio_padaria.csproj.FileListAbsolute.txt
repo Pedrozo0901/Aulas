@@ -1,0 +1,15 @@
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\desafio_padaria\obj\Debug\net8.0\desafio_padaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\desafio_padaria\obj\Debug\net8.0\desafio_padaria.AssemblyInfoInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\desafio_padaria\obj\Debug\net8.0\desafio_padaria.AssemblyInfo.cs
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\desafio_padaria\obj\Debug\net8.0\desafio_padaria.csproj.CoreCompileInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\desafio_padaria\obj\Debug\net8.0\desafio_padaria.sourcelink.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\desafio_padaria\bin\Debug\net8.0\desafio_padaria.exe
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\desafio_padaria\bin\Debug\net8.0\desafio_padaria.deps.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\desafio_padaria\bin\Debug\net8.0\desafio_padaria.runtimeconfig.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\desafio_padaria\bin\Debug\net8.0\desafio_padaria.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\desafio_padaria\bin\Debug\net8.0\desafio_padaria.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\desafio_padaria\obj\Debug\net8.0\desafio_padaria.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\desafio_padaria\obj\Debug\net8.0\refint\desafio_padaria.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\desafio_padaria\obj\Debug\net8.0\desafio_padaria.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\desafio_padaria\obj\Debug\net8.0\desafio_padaria.genruntimeconfig.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\desafio_padaria\obj\Debug\net8.0\ref\desafio_padaria.dll
