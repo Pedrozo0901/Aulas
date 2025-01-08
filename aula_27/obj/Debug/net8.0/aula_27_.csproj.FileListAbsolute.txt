@@ -1,0 +1,15 @@
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_27\obj\Debug\net8.0\aula_27_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_27\obj\Debug\net8.0\aula_27_.AssemblyInfoInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_27\obj\Debug\net8.0\aula_27_.AssemblyInfo.cs
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_27\obj\Debug\net8.0\aula_27_.csproj.CoreCompileInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_27\obj\Debug\net8.0\aula_27_.sourcelink.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_27\bin\Debug\net8.0\aula_27_.exe
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_27\bin\Debug\net8.0\aula_27_.deps.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_27\bin\Debug\net8.0\aula_27_.runtimeconfig.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_27\bin\Debug\net8.0\aula_27_.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_27\bin\Debug\net8.0\aula_27_.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_27\obj\Debug\net8.0\aula_27_.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_27\obj\Debug\net8.0\refint\aula_27_.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_27\obj\Debug\net8.0\aula_27_.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_27\obj\Debug\net8.0\aula_27_.genruntimeconfig.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_27\obj\Debug\net8.0\ref\aula_27_.dll
