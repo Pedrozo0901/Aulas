@@ -18,41 +18,32 @@ namespace aula_29
 
         public void Identify(Customer customer, int senha)
         {
-            try
-            {
-                customer.VerifyPassword(senha);
-                Console.WriteLine($"Cliente identificado no ATM localizado em {Location}");
-            }
-            catch (DomainException e)
-            {
-                Console.WriteLine("Erro: " + e.Message);
-            }
+            customer.VerifyPassword(senha);
+            Console.WriteLine($"Cliente identificado no caixa eletrônico localizado em {Location}");  
         }
 
-        public void Transactions(Account account, double amount, string type)
+        public void Transactions(Account account, double amount, TypeTransaction type)
         {
             try
             {
-                if (type == "deposito")
+                if(type != TypeTransaction.deposito && type != TypeTransaction.saque)
+                {
+                    throw new DomainException("Tipo de transação inválido!");
+                }
+                if (type == TypeTransaction.deposito)
                 {
                     account.Deposit(amount);
                 }
-                if (type == "saque")
+                if (type == TypeTransaction.saque)
                 {
                     account.Withdraw(amount);
                 }
-                else{
-                    throw new DomainException("Tipo de transação inválido!");
-                }  
-                Console.WriteLine($"Transação de {type} no valor de {amount} realizada com sucesso.");  
-                                   
+                Console.WriteLine($"Transação de {type} no valor de {amount} realizada com sucesso.");         
             }            
-            catch (DomainException e)
+            catch(DomainException e)
             {
-                Console.WriteLine("Erro: " + e.Message);
+                System.Console.WriteLine("Erro: " + e);
             }
-
-            
         }
     }   
 }

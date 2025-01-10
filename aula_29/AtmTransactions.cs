@@ -21,7 +21,7 @@ namespace aula_29
             Amount = amount;
             PostBalance = postBalance;
         }
-
+                
         public void Modify(double newAmount)
         {
             Amount = newAmount;

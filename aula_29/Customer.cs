@@ -11,28 +11,34 @@ namespace aula_29
         public string Address { get; set; }
         public int CardNumber { get; set; }
         public int Pin { get; set; }
-        public List<Account> Accounts { get; set; } = new List<Account>();
+        public Account Account { get; set; }
 
-        public Customer(string name, string address, int cardNumber, int pin)
+        public Customer(string name, string address, int cardNumber, int pin, Account account)
         {
             Name = name;
             Address = address;
             CardNumber = cardNumber;
             Pin = pin;
+            Account = account;
         }
 
         public void VerifyPassword(int senha)
         {
-            foreach (var account in Accounts)
+            try
             {
-                if (account.Pin == senha)
+                if (Account.Pin != senha)
                 {
-                    Console.WriteLine($"Seja bem-vindo sr(a) {Name}");
-                    return;
+                    throw new DomainException("Senha incorreta!");
                 }
+                Console.WriteLine($"Seja bem-vindo sr(a) {Name}\n");
+                    return;
+            }
+            catch(DomainException e)
+            {
+                System.Console.WriteLine("Erro: " + e);
             }
 
-            throw new DomainException("Senha incorreta!");
+            
         }
     }
 }
