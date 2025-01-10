@@ -1,77 +1,106 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+// using System;
+// using System.Collections.Generic;
+// using System.Linq;
+// using System.Threading.Tasks;
 
-namespace Aula_25_OO_Struct
-{
-    public struct ContaBancariaStruct{
-        public string NumeroConta { get; set; }
-        public string NomeTitular { get; set; }
-        public decimal Saldo { get; set; }
+// namespace Aula_25_OO_Struct
+// {
+//     public struct ContaBancariaStruct
+//     {
+//         public string Numero { get; set; }
+//         public string Titular { get; set; }
+//         public decimal Saldo { get; set; }
 
-        public ContaBancariaStruct( string numeroConta, string nomeTitular, decimal saldo){
-            NumeroConta = numeroConta;
-            NomeTitular = nomeTitular;
-            Saldo = saldo;
-        }
+//         public ContaBancariaStruct(string numero, string titular, decimal saldo)
+//         {
+//             Numero = numero;
+//             Titular = titular;
+//             Saldo = saldo;
+//         }
 
-        public void Depositar(decimal valor){
-            Saldo += valor;
-        }
-        public void Sacar(decimal valor){
-            if(Saldo >= valor){
-                Saldo -= valor;
-            }else{
-                Console.WriteLine("Saldo insuficiente!");
-            }
-        }
-        public void AlterarSaldo(decimal valor){
-            this = new ContaBancariaStruct(this.NumeroConta, this.NomeTitular, valor + Saldo);
+//         public void Deposito(decimal valor)
+//         {
+//             Saldo += valor;
+//         }
 
-        }
-        public override string ToString(){
-            return $"Conta: {NumeroConta}, Titular: {NomeTitular}, Saldo: {Saldo}";
-        }
-    }
-    public class ContaBancariaClass{
-        public string NumeroConta { get; set; }
-        public string NomeTitular { get; set; }
-        public decimal Saldo { get; set; }
+//         public void Saque(decimal valor)
+//         {
+//             if (Saldo >= valor)
+//             {
+//                 Saldo -= valor;
+//             }
+//             else
+//             {
+//                 Console.WriteLine("Saldo insuficiente");
+//             }
+//         }
 
-        public ContaBancariaClass( string numeroConta, string nomeTitular, decimal saldo){
-            NumeroConta = numeroConta;
-            NomeTitular = nomeTitular;
-            Saldo = saldo;
-        }
+//         public void AlterarSaldo(decimal valor)
+//         {
+//             // this = new ContaBancariaStruct(this.Numero, this.Titular, valor + Saldo);
+//             // Console.WriteLine("Saldo alterado com sucesso");
+//             Saldo += valor;
+//         }
 
-        public void Depositar(decimal valor){
-            Saldo += valor;
-        }
-        public void Sacar(decimal valor){
-            if(Saldo >= valor){
-                Saldo -= valor;
-            }else{
-                Console.WriteLine("Saldo insuficiente!");
-            }
-        }
-        public void AlterarSaldo(decimal valor){
-            Saldo = valor;
-            System.Console.WriteLine("Saldo alterado!");    
-        }
-        public override string ToString(){
-            return $"Conta: {NumeroConta}, Titular: {NomeTitular}, Saldo: {Saldo}";
-        }
-    }
-    class Exe{
-        static void Main(string[] args){
-            ContaBancariaStruct conta1 = new ContaBancariaStruct("12345", "Leandro", 1000);
-            conta1.AlterarSaldo(500);
-            Console.WriteLine(conta1);
+//         public override string ToString()
+//         {
+//             return $"Conta {Numero}, Titular: {Titular}, Saldo: {Saldo}";
+//         }
+//     }
 
-            ContaBancariaClass conta2 = new ContaBancariaClass("67890", "Leandro", 2000);
-            conta2.AlterarSaldo(400);
-            Console.WriteLine(conta2);
-        }
-    }
-}
+//      public class ContaBancariaClasse
+//     {
+//         public string Numero { get; set; }
+//         public string Titular { get; set; }
+//         public decimal Saldo { get; set; }
+
+//         public ContaBancariaClasse(string numero, string titular, decimal saldo)
+//         {
+//             Numero = numero;
+//             Titular = titular;
+//             Saldo = saldo;
+//         }
+
+//         public void Deposito(decimal valor)
+//         {
+//             Saldo += valor;
+//         }
+
+//         public void Saque(decimal valor)
+//         {
+//             if (Saldo >= valor)
+//             {
+//                 Saldo -= valor;
+//             }
+//             else
+//             {
+//                 Console.WriteLine("Saldo insuficiente");
+//             }
+//         }
+
+//           public void AlterarSaldo(decimal valor)
+//         {
+//             Saldo += valor;
+//             Console.WriteLine("Saldo alterado com sucesso");
+//         }
+
+//         public override string ToString()
+//         {
+//             return $"Conta {Numero}, Titular: {Titular}, Saldo: {Saldo}";
+//         }
+//     }
+
+//     class Exe
+//     {
+//         static void Main(string [] args)
+//         {
+//             ContaBancariaStruct conta1 = new ContaBancariaStruct("123", "Maria", 1000);
+//             conta1.AlterarSaldo(500);
+//             Console.WriteLine(conta1);
+
+//             ContaBancariaClasse conta2 = new ContaBancariaClasse("123", "Maria", 1000);
+//             conta2.AlterarSaldo(500);
+//             Console.WriteLine(conta2);
+//         }
+//     }
+// }
