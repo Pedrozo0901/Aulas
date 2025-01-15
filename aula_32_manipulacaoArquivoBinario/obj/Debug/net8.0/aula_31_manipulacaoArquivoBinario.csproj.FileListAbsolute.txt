@@ -1,0 +1,15 @@
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_32_manipulacaoArquivoBinario\obj\Debug\net8.0\aula_31_manipulacaoArquivoBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_32_manipulacaoArquivoBinario\obj\Debug\net8.0\aula_31_manipulacaoArquivoBinario.AssemblyInfoInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_32_manipulacaoArquivoBinario\obj\Debug\net8.0\aula_31_manipulacaoArquivoBinario.AssemblyInfo.cs
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_32_manipulacaoArquivoBinario\obj\Debug\net8.0\aula_31_manipulacaoArquivoBinario.csproj.CoreCompileInputs.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_32_manipulacaoArquivoBinario\obj\Debug\net8.0\aula_31_manipulacaoArquivoBinario.sourcelink.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_32_manipulacaoArquivoBinario\bin\Debug\net8.0\aula_31_manipulacaoArquivoBinario.exe
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_32_manipulacaoArquivoBinario\bin\Debug\net8.0\aula_31_manipulacaoArquivoBinario.deps.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_32_manipulacaoArquivoBinario\bin\Debug\net8.0\aula_31_manipulacaoArquivoBinario.runtimeconfig.json
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_32_manipulacaoArquivoBinario\bin\Debug\net8.0\aula_31_manipulacaoArquivoBinario.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_32_manipulacaoArquivoBinario\bin\Debug\net8.0\aula_31_manipulacaoArquivoBinario.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_32_manipulacaoArquivoBinario\obj\Debug\net8.0\aula_31_manipulacaoArquivoBinario.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_32_manipulacaoArquivoBinario\obj\Debug\net8.0\refint\aula_31_manipulacaoArquivoBinario.dll
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_32_manipulacaoArquivoBinario\obj\Debug\net8.0\aula_31_manipulacaoArquivoBinario.pdb
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_32_manipulacaoArquivoBinario\obj\Debug\net8.0\aula_31_manipulacaoArquivoBinario.genruntimeconfig.cache
+C:\Users\feliperibeiro\Documents\Aulas\Aulas\aula_32_manipulacaoArquivoBinario\obj\Debug\net8.0\ref\aula_31_manipulacaoArquivoBinario.dll
